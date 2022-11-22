@@ -1,0 +1,26 @@
+T1-M-V-
+T2-M-V-
+T3-M-V-
+T4-M-V-
+T5-M-V-
+T6-M-V-
+
+T1-
+T2-
+T3-
+T4-
+T5-
+T6-
+
+T1-Rev-
+T2-Rev-
+T3-Rev-
+T4-Rev-
+T5-Rev-
+T6-Rev-
+
+Seta pra cima
+F2
+Seta pra Esquerda
+ctrl+V
+enter
